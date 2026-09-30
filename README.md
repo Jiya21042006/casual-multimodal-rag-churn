@@ -120,4 +120,4 @@ Real proprietary multimodal churn data is not public, so the proof of concept us
 
 ## 11. Contact
 
-Feedback, pointers to related work and collaboration suggestions are welcome. Please open an issue or email [your email].
+Feedback, pointers to related work and collaboration suggestions are welcome. Please open an issue or email jiya.virpara2116@gmail.com.
